@@ -1,0 +1,19 @@
+{
+  "name": "project-modulus-build-site",
+  "version": "1.0.0",
+  "description": "Automated build site for Project Modulus modular Discord bot parts written in Java and JDA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NestedVariables/Project-Modulus-Build-Site.git"
+  },
+  "author": "Nested Variables",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NestedVariables/Project-Modulus-Build-Site/issues"
+  },
+  "homepage": "https://github.com/NestedVariables/Project-Modulus-Build-Site#readme"
+}
